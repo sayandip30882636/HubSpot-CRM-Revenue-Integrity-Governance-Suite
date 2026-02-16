@@ -89,9 +89,6 @@ This tool is ideal for **Revenue Operations (RevOps)** and **Process Analysts** 
 ### **Important - The `.gitignore` File**
 You must **NEVER** upload your API Token to GitHub.
 Create a file named `.gitignore` in your repo and add this line:
-
-```
-text
 .env
 
 ```
