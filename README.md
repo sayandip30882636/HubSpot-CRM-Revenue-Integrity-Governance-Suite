@@ -93,4 +93,3 @@ Create a file named `.gitignore` in your repo and add this line:
 
 (This tells Git to ignore your secrets file so your token stays safe.)
 
-```
