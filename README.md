@@ -97,4 +97,3 @@ Create a file named `.gitignore` in your repo and add this line:
 
 (This tells Git to ignore your secrets file so your token stays safe.)
 
-**Would you like me to show you how to upload your Google Colab notebook directly to this GitHub repo?**
