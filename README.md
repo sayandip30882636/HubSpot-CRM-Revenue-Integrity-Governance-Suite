@@ -82,16 +82,15 @@ python governance_audit.py
 
 This tool is ideal for **Revenue Operations (RevOps)** and **Process Analysts** looking to automate manual data checks, reduce reporting errors, and ensure high-fidelity data for leadership dashboards.
 
-```
 
----
 
 ### **Important - The `.gitignore` File**
+
 You must **NEVER** upload your API Token to GitHub.
 Create a file named `.gitignore` in your repo and add this line:
 .env
 
-```
 
 (This tells Git to ignore your secrets file so your token stays safe.)
 
+```
